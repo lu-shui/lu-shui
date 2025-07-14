@@ -18,10 +18,10 @@ export default defineNuxtConfig({
         {
           rel: "icon",
           type: "image/x-icon",
-          href: "/luisepunge/favicon.ico",
+          href: "/lu-shui/favicon.ico",
         },
       ],
     },
-    baseURL: "/luisepunge/",
+    baseURL: "/lu-shui/",
   }
 });
