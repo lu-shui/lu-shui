@@ -82,6 +82,6 @@ const fuse = new Fuse(sortedTerms.value, {
 const result = computed(() => fuse.search(toValue(query)).slice(0, 10))
 
 const numberOfTerms = computed(() => {
-  return terms.value ? terms.value.length : 0;
+  return sortedTerms.value ? sortedTerms.value.length : 0;
 });
 </script>
