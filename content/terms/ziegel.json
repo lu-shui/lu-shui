@@ -1,5 +1,7 @@
 {
-  "name": "砖块",
-  "transcription": "zhuān kuài",
-  "translation": "Ziegel"
+  "name": "砖",
+  "transcription": "zhuān",
+  "translation": "Ziegelstein, Mauerziegel",
+  "description": "砖块 zhuānkuài, 砖头 zhuāntóu",
+  "released": true
 }
