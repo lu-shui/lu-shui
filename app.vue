@@ -12,7 +12,7 @@
 
     <section>
       <small>
-        Dieses Werk ist eine Abwandlung der Webseite <a
+        Dieses Werk basiert auf der Webseite <a
           href="https://jackyscript.github.io/jackyscript/">jackyscript</a>, lizenziert unter
         <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>, und wurde
         erstellt mittels <a href="https://nuxt.com" target="_blank" rel="noopener">Nuxt</a> und
