@@ -19,6 +19,7 @@
     "@nuxt/content": "^3.6.3",
     "@nuxt/eslint": "^1.4.1",
     "@picocss/pico": "^2.1.1",
+    "better-sqlite3": "^12.4.1",
     "dayjs-nuxt": "^2.1.11",
     "eslint": "^9.28.0",
     "fuse.js": "^7.1.0",
